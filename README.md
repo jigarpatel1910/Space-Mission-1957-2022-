@@ -24,7 +24,7 @@ Here is a visualization of space missions over time:
 ![Space Missions](Assets/Space_Missions_(1957-2022).png)
 
 ## For More Information
-# * [JIGAR PATEL](https://www.linkedin.com/in/jigar-patel-a4157821b/)*
+# *[JIGAR PATEL](https://www.linkedin.com/in/jigar-patel-a4157821b/)*
 
 
 
