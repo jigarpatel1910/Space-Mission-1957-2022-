@@ -21,7 +21,7 @@ The dataset is available on [Kaggle](https://www.kaggle.com/datasets/agirlcoding
 
 Here is a visualization of space missions over time:
 
-![Space Missions](C:/Users/jigar/Desktop/Power BI Projects/Space_Mission_1957_2022/New folder/Space_Missions_(1957-2022).png)
+![Space Missions](Assets/Space_Missions_(1957-2022).png)
 
 
 
